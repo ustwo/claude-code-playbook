@@ -11,7 +11,7 @@ A collection of Claude Code hooks, commands, agents, and rules from our engineer
 | [agents/](agents/) | Specialised subagents for planning, architecture, build errors, and database review |
 | [rules/](rules/) | Ambient context files Claude loads as standing instructions |
 | [docs/](docs/) | Guides for hooks, commands, agents, rules, context management, adoption, and settings |
-| [settings-template.json](settings-template.json) | Ready-to-use `settings.json` with all hooks wired up |
+| [hooks/settings-template.json](hooks/settings-template.json) | Ready-to-use `settings.json` with all hooks wired up |
 
 ## Quick start
 

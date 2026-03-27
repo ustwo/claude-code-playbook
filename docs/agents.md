@@ -66,7 +66,5 @@ Using Haiku for search agents cuts cost and latency significantly. Reserve Opus 
 
 | Agent | What it does |
 |---|---|
-| [planner.md](../agents/planner.md) | Spikes a codebase, identifies affected areas, and produces a structured implementation plan |
 | [architect.md](../agents/architect.md) | Evaluates design options and produces an ADR or architecture recommendation |
-| [build-error-resolver.md](../agents/build-error-resolver.md) | Diagnoses build and type errors, identifies the root cause, and suggests a fix |
 | [database-reviewer.md](../agents/database-reviewer.md) | Reviews migrations, schema changes, and queries for correctness and safety |
