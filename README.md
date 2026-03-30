@@ -9,8 +9,9 @@ A collection of Claude Code hooks, commands, agents, and rules from our engineer
 | [hooks/scripts/](hooks/scripts/) | Shell scripts that fire automatically on Claude Code lifecycle events |
 | [commands/](commands/) | Reusable slash commands for common workflows (start ticket, gate check, raise PR) |
 | [agents/](agents/) | Specialised subagents for planning, architecture, build errors, and database review |
+| [skills/](skills/) | Reusable knowledge modules that commands and agents load on demand |
 | [rules/](rules/) | Ambient context files Claude loads as standing instructions |
-| [docs/](docs/) | Guides for hooks, commands, agents, rules, context management, adoption, and settings |
+| [docs/](docs/) | Guides for hooks, commands, agents, skills, rules, context management, adoption, and settings |
 | [hooks/settings-template.json](hooks/settings-template.json) | Ready-to-use `settings.json` with all hooks wired up |
 
 ## Quick start
